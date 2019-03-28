@@ -1,0 +1,14 @@
+Prosper:
+
+First Modern peer-to-peer lending marketplace that tries to match borrower and lenders.
+
+Prosper has a non-traditional loan model with several key advantages over traditional banks. 
+The E-business commerce setup reduces fixed costs borne by physical infrastructure (e.g. bank branches) and automation, databases, software and technology improve and expedite the borrowing and loaning experience.
+The loans are unsecured, in that there is no collateral a borrower needs to put up, that could get taken away in lieu of payments.
+There are multiple people investing in an amount for one person that needs a loan.
+
+In the last few years, with the advent of peer-to-peer markets and of fintech companies that try to disrupt the banking ecosystem,
+there has been one major issue that is still yet to be resolved by these new players: Interest rates have been quite signifcantly expensive than
+what major banks offer. The reason why Propser and similar peer-to-peer online marketplaces increase interest rates is primarily due to the signifcant default rates they would encounter.
+
+In this analysis, I try to explore good loans and defaulted loans, and the reasons to why a loan is defaulted when another is not.
